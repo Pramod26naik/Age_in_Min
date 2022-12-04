@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DOBcalci" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/chocolate</item>
+        <item name="colorPrimaryVariant">@color/chocolate</item>
+        <item name="colorOnPrimary">@color/chocolate</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/chocolate</item>
+        <item name="colorSecondaryVariant">@color/chocolate</item>
+        <item name="colorOnSecondary">@color/chocolate</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
